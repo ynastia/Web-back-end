@@ -5,6 +5,6 @@
    Extra_task 290 <br>
    lab_03 = 55538 <br>
    lab_04 = 1453349 <br>
-   lab_05 = <br>
-   lab_06 =
+   lab_05 = 2810 <br>
+   lab_06 = 8933
    
